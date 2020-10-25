@@ -36,7 +36,7 @@ func TestKoans(t *testing.T) {
 	aboutDefer()
 	aboutFiles()
 	aboutInterfaces()
-	aboutCommonInterfaces()
+	// aboutCommonInterfaces()
 	aboutMaps()
 	aboutPointers()
 	aboutStructs()
